@@ -6,3 +6,4 @@ Algo de texto aleatorio por que no, esta tecnologia es interesante verdad
 
 Estoy viendo un tutorial de git jsjsjsj
 Esta es una linea de prueba para empujar mi archivo a github
+Una segunda linea ya se ya se
